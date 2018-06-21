@@ -104,19 +104,19 @@ input {
 input[type="text"] {
   margin-bottom: 10px;
   border-color: #DCDEE0;
-  color: #DCDEE0;
+  color: #000000;
   background-color: #F1F3F6;
 }
 input[type="date"] {
   margin-bottom: 10px;
   border-color: #DCDEE0;
-  color: #DCDEE0;
+  color: #000000;
   background-color: #F1F3F6;
 }
 
 input[type="password"] {
   margin-bottom: 20px;
   border-color: #DCDEE0;
-  color: #DCDEE0;
+  color: #000000;
   background-color: #F1F3F6;
 }
